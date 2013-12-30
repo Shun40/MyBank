@@ -1,0 +1,6 @@
+c:\users\shun\documents\visual studio 2012\Projects\MyBank\MyBank\bin\Debug\MyBank.exe.config
+c:\users\shun\documents\visual studio 2012\Projects\MyBank\MyBank\obj\Debug\MyBank.csprojResolveAssemblyReference.cache
+c:\users\shun\documents\visual studio 2012\Projects\MyBank\MyBank\obj\Debug\MyBank.pdb
+c:\users\shun\documents\visual studio 2012\Projects\MyBank\MyBank\bin\Debug\MyBank.exe
+c:\users\shun\documents\visual studio 2012\Projects\MyBank\MyBank\bin\Debug\MyBank.pdb
+c:\users\shun\documents\visual studio 2012\Projects\MyBank\MyBank\obj\Debug\MyBank.exe

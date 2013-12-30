@@ -1,0 +1,6 @@
+C:\Users\Shun\Documents\Visual Studio 2012\Projects\MyBank\MyBank\bin\Release\MyBank.exe.config
+C:\Users\Shun\Documents\Visual Studio 2012\Projects\MyBank\MyBank\bin\Release\MyBank.exe
+C:\Users\Shun\Documents\Visual Studio 2012\Projects\MyBank\MyBank\bin\Release\MyBank.pdb
+C:\Users\Shun\Documents\Visual Studio 2012\Projects\MyBank\MyBank\bin\Release\DxLibDotNet.dll
+C:\Users\Shun\Documents\Visual Studio 2012\Projects\MyBank\MyBank\obj\Release\MyBank.exe
+C:\Users\Shun\Documents\Visual Studio 2012\Projects\MyBank\MyBank\obj\Release\MyBank.pdb
